@@ -1,0 +1,1 @@
+メール送信のテストです。<?php /**PATH C:\MAMP\htdocs\RodentGarden\resources\views/welcome.blade.php ENDPATH**/ ?>
